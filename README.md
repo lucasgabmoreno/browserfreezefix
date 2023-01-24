@@ -3,7 +3,7 @@ Fix Browser Freeze by clearing cache every boot
 
 ## Install
 ```
-sudo wget -O /usr/bin/browserfreezefix.sh.sh https://raw.githubusercontent.com/lucasgabmoreno/browserfreezefix/main/browserfreezefix.sh
+sudo wget -O /usr/bin/browserfreezefix.sh https://raw.githubusercontent.com/lucasgabmoreno/browserfreezefix/main/browserfreezefix.sh
 sudo chmod +x /usr/bin/browserfreezefix.sh
 ```
 Add `/usr/bin/browserfreezefix.sh` to Startup
