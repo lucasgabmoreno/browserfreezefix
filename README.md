@@ -1,5 +1,5 @@
 # BrowserFreezeFix
-Fix Browser Freeze by clearing cache every boot
+Fix Browser Freeze by clearing cache every boot in Linux Debian and derivatives
 
 ## Install
 ```
