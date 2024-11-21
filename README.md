@@ -16,6 +16,7 @@ Add `/usr/bin/browserfreezefix.sh` to Startup
 * Google Chrome
 * Konqueror
 * Opera
+* LibreWolf
 * Microsoft Edge
 * Mozilla Firefox
 * NetSurf
