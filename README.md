@@ -8,7 +8,7 @@ sudo chmod +x /usr/bin/browserfreezefix.sh
 ```
 Add `/usr/bin/browserfreezefix.sh` to Startup
 
-## Supported browsers
+## Supported deb & pkg browsers
 * Brave
 * Chromium
 * Epiphany
