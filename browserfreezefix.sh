@@ -15,6 +15,7 @@ rmcache falkon # Falkon
 rmcache google-chrome # Google Chrome
 rmcache konqueror # Konqueror
 rmcache opera # Opera
+rmcache librewolf # LibreWolf
 rmcache Microsoft/Edge # Microsoft Edge
 rmcache microsoft-edge # Microsoft Edge
 rmcache mozilla/firefox # Mozilla Firefox
@@ -37,7 +38,6 @@ rmcache yandex-browser # Yandex browser
 # GNUzilla
 # Iceweasel
 # Icecat
-# LibreWolf
 # Midori
 # Palemoon
 # QupZilla (actual Falkon)
