@@ -4,6 +4,10 @@
 # sudo chmod +x /usr/bin/browserfreeze-fix.sh
 # Add /usr/bin/browserfreeze-fix.sh to startup
 
+# --------------------------------------------
+
+# DEB & PKG BROWSERS
+
 rmcache() {
 rm -rf $HOME/.cache/"$1" 2> /dev/null
 }
@@ -41,3 +45,14 @@ rmcache yandex-browser # Yandex browser
 # Midori
 # Palemoon
 # QupZilla (actual Falkon)
+
+# --------------------------------------------
+
+# FLATPAK BROWSERS
+
+rmcachef() {
+rm -rf $HOME/.var/app/"$1"/cache 2> /dev/null
+}
+
+rmcachef com.google.Chrome # Google Chrome
+rmcachef io.gitlab.librewolf-community # LibreWolf
