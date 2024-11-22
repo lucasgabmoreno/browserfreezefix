@@ -8,22 +8,51 @@ sudo chmod +x /usr/bin/browserfreezefix.sh
 ```
 Add `/usr/bin/browserfreezefix.sh` to Startup
 
-## Supported deb & pkg browsers
+## Supported browsers
 * Brave
+* Brave (flatpak)
+* Catalyst (flatpak)
+* Chrome
+* Chrome (flatpak)
+* Chrome (unstable) (flatpak)
 * Chromium
+* Chromium (flatpak)
+* Chromium (ungoogled) (flatpak)
+* Edge
+* Edge (flatpak)
+* Edge (developer channel) (flatpak)
 * Epiphany
-* Falkon 
-* Google Chrome
+* Epiphany (flatpak)
+* Falkon
+* Falkon (flatpak)
+* FireDragon (flatpak)
+* Firefox
+* Firefox (flatpak)
+* Floorp (flatpak)
+* Ghostery (flatpak)
+* Hüma (flatpak)
 * Konqueror
 * Opera
+* Opera (flatpak)
+* Oku (flatpak)
+* Profectus (flatpak)
 * LibreWolf
-* Microsoft Edge
-* Mozilla Firefox
+* LibreWolf (flatpak)
+* Mullvad (flatpak)
 * NetSurf
+* NetSurf (flatpak)
 * Qutebrowser
-* Tor Browser
+* Qutebrowser (flatpak)
+* Tor
+* Tor (flatpak)
+* V2BlankBrowser (flatpak)
 * Vivaldi
-* Yandex Browser
+* Vivaldi (flatpak)
+* Waterfox (flatpak)
+* Yandex
+* Yandex (flatpak)
+* Zeal (flatpak)
+* Zen (flatpak)
 
 ---
 
