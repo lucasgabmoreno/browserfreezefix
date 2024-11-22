@@ -37,7 +37,7 @@ rmcache yandex-browser # Yandex browser
 # SRWare Iron
 # w3m
 
-# Can't install:
+# Can't install to try:
 # Firedragon
 # GNUzilla
 # Iceweasel
@@ -54,5 +54,32 @@ rmcachef() {
 rm -rf $HOME/.var/app/"$1"/cache 2> /dev/null
 }
 
+rmcachef org.eu.getcatalyst.Catalyst # Catalyst
+rmcachef com.brave.Browser # Brave
+rmcachef org.chromium.Chromium # Chromium Web Browser
+rmcachef org.gnome.Epiphany # Epiphany
+rmcachef org.kde.falkon # Falkon
+rmcachef org.garudalinux.firedragon # FireDragon 
+rmcachef one.ablaze.floorp # Floorp
 rmcachef com.google.Chrome # Google Chrome
+rmcachef com.google.ChromeDev # Google Chrome (unstable)
+rmcachef org.mozilla.firefox # Firefox
+rmcachef com.ghostery.browser # Ghostery Private Browser
+rmcachef com.humatarayici.od # Hüma Browser
 rmcachef io.gitlab.librewolf-community # LibreWolf
+rmcachef com.microsoft.Edge # Microsoft Edge
+rmcachef com.microsoft.EdgeDev # Microsoft Edge (developer channel)
+rmcachef net.mullvad.MullvadBrowser # Mullvad Browser
+rmcachef org.netsurf_browser.NetSurf # NetSurf
+rmcachef io.github.OkuBrowser.oku # Oku
+rmcachef com.opera.Opera # Opera
+rmcachef to.us.scrollprotocol.Profectus # Profectus
+rmcachef org.qutebrowser.qutebrowser # Qutebrowser
+rmcachef org.torproject.torbrowser-launcher # Tor Browser
+rmcachef io.github.ungoogled_software.ungoogled_chromium # Ungoogled Chromium
+rmcachef pl.art.lach.slawek.V2BlankBrowser # V2BlankBrowser
+rmcachef com.vivaldi.Vivaldi # Vivaldi
+rmcachef net.waterfox.waterfox # Waterfox
+rmcachef ru.yandex.Browser # Yandex Browser
+rmcachef org.zealdocs.Zeal # Zeal
+rmcachef io.github.zen_browser.zen # Zen
